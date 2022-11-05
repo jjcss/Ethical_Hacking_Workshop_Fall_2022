@@ -31,13 +31,13 @@
 ---
 
 ## Cyber Threat Intelligence
-**Pre-Requisite**: 
-    - [ ] **TryHackMe Account**: [Sign Up](https://tryhackme.com/login))
-    - [ ] **TryHackMe is a CTF platform to get hands on cybersecurity training**
+**Pre-Requisite**: <br>
+    - [ ] **TryHackMe Account**: [Sign Up](https://tryhackme.com/login)) <br>
+    - [ ] **TryHackMe is a CTF platform to get hands on cybersecurity training** <br>
 
-**What is it**: Cyber Threat intelligence is process of collecting information and building profiles of threat actors to help mitigate potential attacks.
-**What will we be doing in this demo**: We will be analyzing network traffic and we will be building a profile to help us mitigate threats.
-**Website link**: [Clik here](https://tryhackme.com/room/cyberthreatintel)
+**What is it**: Cyber Threat intelligence is process of collecting information and building profiles of threat actors to help mitigate potential attacks. <br>
+**What will we be doing in this demo**: We will be analyzing network traffic and we will be building a profile to help us mitigate threats. <br>
+**Website link**: [Clik here](https://tryhackme.com/room/cyberthreatintel) <br>
 
 <details>
     <summary>Click for meme</summary>
@@ -47,15 +47,15 @@
 ---
 
 ## Steganography
-**Pre-Requisite**: 
-    - [ ] **Digital Invisibile Ink Toolkit** 
-    - [ ] **What does this program do**: a Java steganography tool that can hide any sort of file inside a digital image
-    - [ ] [Link to program](https://sourceforge.net/projects/diit/files/diit/1.5/diit-1.5.jar/download?use_mirror=cytranet)
-    - [ ] [Demo_File](https://i.imgur.com/66qJWwL.jpg)
+**Pre-Requisite**: <br>
+    - [ ] **Digital Invisibile Ink Toolkit** <br>
+    - [ ] **What does this program do**: a Java steganography tool that can hide any sort of file inside a digital image <br>
+    - [ ] [Link to program](https://sourceforge.net/projects/diit/files/diit/1.5/diit-1.5.jar/download?use_mirror=cytranet)<br>
+    - [ ] [Demo_File](https://i.imgur.com/66qJWwL.jpg) <br>
 
-**What is it**: Steganography is the practice of concealing a message within another message or a physical object
-**What will we be doing in this demo**: Extracting a file within an image
-**Demo Walkthrough**: [Click here](https://youtu.be/G8qQsH3H_Go)
+**What is it**: Steganography is the practice of concealing a message within another message or a physical object <br>
+**What will we be doing in this demo**: Extracting a file within an image <br>
+**Demo Walkthrough**: [Click here](https://youtu.be/G8qQsH3H_Go) <br>
 <details>
     <summary>Click for meme</summary>
     <img src="https://i.imgur.com/K7qBgQg.jpg" alt="drawing" width="400" height="300"/>
@@ -64,31 +64,33 @@
 ---
 
 ## Cryptography
-**Pre-Requisite**: 
-    - [ ] **Cipher Decoder**: [Click Here](https://www.dcode.fr/)
-    - [ ] **Website containing a multitude of ciphers, and tools to decode/encode material**:
-    - [ ] [Demo_File](https://www.dropbox.com/scl/fo/qq6wmaqtknyh8w2ga5yrw/h?dl=0&rlkey=wwf45y7dneckc3dvoq1m3rhy8)
+**Pre-Requisite**: <br>
+    - [ ] **Cipher Decoder**: [Click Here](https://www.dcode.fr/) <br>
+    - [ ] **Website containing a multitude of ciphers, and tools to decode/encode material** <br>
+    - [ ] [Demo_File](https://www.dropbox.com/scl/fo/qq6wmaqtknyh8w2ga5yrw/h?dl=0&rlkey=wwf45y7dneckc3dvoq1m3rhy8) <br>
 
-**What is it**: In computer science, cryptography refers to secure information and communication techniques derived from mathematical concepts and a set of rule-based calculations called algorithms, to transform messages in ways that are hard to decipher.
-**What will we be doing in this demo**: Manuvering and decipher through files in order to acquire a flag.
-**Demo Walkthrough**: [Click here](https://youtu.be/9mXGVnB1XaE)
+**What is it**: In computer science, cryptography refers to secure information and communication techniques derived from mathematical concepts and a set of rule-based calculations called algorithms, to transform messages in ways that are hard to decipher. <br>
+**What will we be doing in this demo**: Manuvering and decipher through files in order to acquire a flag. <br>
+**Demo Walkthrough**: [Click here](https://youtu.be/9mXGVnB1XaE) <br>
 <details>
     <summary>Click for meme</summary>
     <img src="https://i.imgur.com/O6kofwQ.jpg" alt="drawing" width="400" height="300"/>
 </details>
+
 ---
 
 ## Privilege Escalation
-**Pre-Requisite**: 
-    - [ ] **TryHackMe Premium Accout** (We will demo this room so only purchase the premium if you'd like to follow along for this demo)
+**Pre-Requisite**: <br>
+    - [ ] **TryHackMe Premium Accout** (We will demo this room so only purchase the premium if you'd like to follow along for this demo) <br>
 
-**What is it**: Privelage escalation is the process of attempting to gain an elevated level of access than what was originally assigned to a user.
-**What will we be doing in this demo**: Using the TryHackMe premium rooms we will attempt to gain root level access to a system.
-**Follow along with the demo**: [Clik here](https://tryhackme.com/room/intronetworksecurity)
+**What is it**: Privelage escalation is the process of attempting to gain an elevated level of access than what was originally assigned to a user. <br>
+**What will we be doing in this demo**: Using the TryHackMe premium rooms we will attempt to gain root level access to a system. <br>
+**Follow along with the demo**: [Clik here](https://tryhackme.com/room/intronetworksecurity) <br>
 <details>
     <summary>Click for meme</summary>
     <img src="https://i.imgur.com/M7DkGtn.png" alt="drawing" width="400" height="300"/>
 </details>
+
 ---
 
 ## The End
@@ -96,7 +98,7 @@
 
 ---
 
-# Continue Learning Ethical Hacking
+# Continue Learning About Ethical Hacking
 - [Cyber Threat Intelligence Article](https://medium.com/katies-five-cents/a-cyber-threat-intelligence-self-study-plan-part-1-968b5a8daf9a)
 - [Cyber Threat Intelligence Video](https://www.youtube.com/watch?v=J7e74QLVxCk)
 - [Steganography Article](https://www.edureka.co/blog/steganography-tutorial)
