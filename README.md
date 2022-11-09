@@ -19,7 +19,7 @@
 
 **Date:** Tuesday, November 8th, 2022 <br>
 **Description**: In this workshop you will learn the basics of **Capture the Flag and Ethical Hacking**. We will execute some of the most common attacks Cybersecurity experts face. You will also get hands on practice via a Capture the Flag (CTF) game. For more information on CTF's and other resources talked about during the meeting please continue looking below for all **resources** and **descriptions for each demo**. <br>
-**Workshop Zoom Recording**: [TBD]() <br>
+**Workshop Zoom Recording**: [Click here](https://jjay-cuny.zoom.us/rec/share/StVI8s_Ej9etDhrakkpaUPJfyRVYXHQSs2cyznt3kifHHWhxFUhpfcm_Dcu59YE.YHI7B8KDrRgR9ppc) <br>
 **Workshop Google Slides**: [Click here](https://docs.google.com/presentation/d/1YVD_WflpyozC3RJ1Re6PRwEJbxU4110_TAH51TmDv20/edit?usp=sharing) <br>
 
 ---
